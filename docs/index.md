@@ -26,20 +26,13 @@ features: # 可选的
 # simplePostListLength: 10 # 简约版文章列表显示的文章数量，默认10。（仅在postList设置为simple时生效）
 ---
 
-::: v-pre
-<iframe height="400" style="width: 100%;" scrolling="no" title="轮播展示" src="https://wiki.eryajf.net/lunbo/lunbo.html"></iframe>
-:::
-
-
 ::: center
 大千世界，何其茫茫。谨此笔记，记录过往。凭君阅览，小站洛荒。如能收益，莫大奢望
 :::
 
 ::: center
-## 🌎访问地球🌎
-:::
 
-<html><body><script type="text/javascript" src="//ra.revolvermaps.com/0/0/6.js?i=04kc3rr6zqv&m=0&c=ff0000&cr1=ffffff&f=times_new_roman&l=0&lx=300&ly=180&he=4" async="async"></script></body></html>
+:::
 
 <!-- 小熊猫 -->
 <!-- <img src="/img/panda-waving.png" class="panda no-zoom" style="width: 130px;height: 115px;opacity: 0.8;margin-bottom: -4px;padding-bottom:0;position: fixed;bottom: 0;left: 0.5rem;z-index: 1;"> -->
